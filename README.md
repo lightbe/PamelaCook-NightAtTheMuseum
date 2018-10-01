@@ -4,7 +4,7 @@
 
 To play: Follow the audio cues along the way. After you cross the street you enter the building to visit the VR Museum. You will have a chance to listen to audios or watch videos in each of the fixe exhibit rooms. When you exit the building you can look down to end the application after hearing the audio cue.
 
-This game was created using Unity 2017.4.0f1 and GoogleVR SDK 1.100.0 for iOS with the minimum version of 10.0. The iTween 2.0.9 plugin i sued for navigation throughout the experience. This project has been executed on an iPhone 6 Plus running the latest stable version of both iOS 11 and iOS 12.
+This game was created using Unity 2017.4.0f1 and GoogleVR SDK 1.100.0 for iOS with the minimum version of 10.0. The iTween 2.0.9 plugin is used for navigation throughout the experience. This project has been executed on an iPhone 6 Plus running the latest stable version of both iOS 11 and iOS 12.
 
 ## Credits
 - Floor assets from **Sketchup Textures** (https://www.sketchuptextureclub.com/).
