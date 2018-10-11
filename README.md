@@ -6,6 +6,8 @@ To play: Follow the audio cues along the way. After you cross the street you ent
 
 This game was created using Unity 2017.4.0f1 and GoogleVR SDK 1.100.0 for iOS with the minimum version of 10.0. The iTween 2.0.9 plugin is used for navigation throughout the experience. This project has been executed on an iPhone 6 Plus running the latest stable version of both iOS 11 and iOS 12.
 
+For more information on Pamela Cook, see her [*LinkedIn* profile](https://www.linkedin.com/in/pamelacooklightbecorp).
+
 ## Credits
 - Floor assets from **Sketchup Textures** (https://www.sketchuptextureclub.com/).
 - Street prop assets from **GAZ Street Props** in the [Unity App Store](https://assetstore.unity.com/packages/3d/props/exterior/gaz-street-props-57285).
@@ -14,4 +16,5 @@ This game was created using Unity 2017.4.0f1 and GoogleVR SDK 1.100.0 for iOS wi
 - Bench, coke machine, street lamp and tree assets from **Simple City pack plain** in the [Unity App Store](https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348).
 - Water Cooler assets from **Water Cooler (Mobile)** in the [Unity App Store](https://assetstore.unity.com/packages/3d/props/water-cooler-mobile-69787).
 
-For more information on Pamela Cook, see her [*LinkedIn* profile](https://www.linkedin.com/in/pamelacooklightbecorp).
+## Changelog
+- 2018.10.11 - Updated to Unity 2017.4.7f1
